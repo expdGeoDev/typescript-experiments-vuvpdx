@@ -1,0 +1,20 @@
+{
+  "name": "typescript-experiments",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "tsc"
+  },
+  "keywords": [],
+  "author": "John Paxton <pax@speedingplanet.com>",
+  "license": "ISC",
+  "description": "Demonstrating and experimenting with TypeScript",
+  "dependencies": {
+    "typescript": "^5.4.5"
+  },
+  "devDependencies": {
+    "lodash": "^4.17.21",
+    "prettier": "^3.3.2"
+  }
+}
